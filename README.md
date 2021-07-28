@@ -6,7 +6,7 @@ This is the executable version of the source program which doesn't needed packag
 
 ## Installation
 
-In order to install the program, click the green *Code* button to install the zip file, and then extract it (be sure to check if the audio file (hello-world.mp3) is in the same directory as the executable file which is "hello-world.exe").
+In order to install the program, click the green *Code* button and choose "Download ZIP" to install the zip file, and then extract it (be sure to check if the audio file (hello-world.mp3) is in the same directory as the executable file which is "hello-world.exe").
 
 After that, open the hello-world.exe file to run the program.
 
