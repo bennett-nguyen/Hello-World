@@ -7,9 +7,10 @@ I created this program because I was inspired [Gusp3h](https://www.youtube.com/c
 
 Download this version if you want to change some stuff.
 <br><br>
-Language and packages used:
-- ## [Python](https://www.python.org/)
-- ## [Pygame](https://www.pygame.org/docs/)
+
+## Language and packages used:
+- ### [Python](https://www.python.org/)
+- ### [Pygame](https://www.pygame.org/docs/)
 <br>
 
 ## Executable Version (Download Recommended)
