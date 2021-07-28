@@ -11,5 +11,5 @@ Language and packages used:
 - ## [Pygame](https://www.pygame.org/docs/)
 <br>
 
-## Executable Version (Recommended)
+## Executable Version (Download Recommended)
 https://github.com/Bennett-Tabasco/Hello-World/tree/executable
