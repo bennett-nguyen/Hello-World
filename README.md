@@ -6,7 +6,7 @@ This is a fan-made lyrics program based on a song named [hello world](https://ww
 I created this program because I was inspired [Gusp3h](https://www.youtube.com/channel/UCVqRXM_R1_RZJrkhy7ojUeg), this is his program https://www.youtube.com/watch?v=VZ2kq_e8jwQ
 
 <br><br>
-Program and packages used:
+Language and packages used:
 - ## [Python](https://www.python.org/)
 - ## [Pygame](https://www.pygame.org/docs/)
 <br>
